@@ -1,1 +1,14 @@
-
+{
+    "EarthquakeReports": {
+        "Local": [
+        {
+            "Link": "https://opendata.cwa.gov.tw/api/v1/rest/datastore/E-A0016-001?Authorization={替換成你的CWA會員API授權碼}&format=JSON"
+        }
+        ],
+        "No": [
+            {
+            "Link": "https://opendata.cwa.gov.tw/api/v1/rest/datastore/E-A0015-001?Authorization={替換成你的CWA會員API授權碼}&format=JSON"
+            }
+        ]
+    }
+}
